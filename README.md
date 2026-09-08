@@ -1,4 +1,4 @@
-# Stress Level Analysis
+# Stress Level
 
 ## Project Description
 
