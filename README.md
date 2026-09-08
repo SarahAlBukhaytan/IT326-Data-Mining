@@ -16,8 +16,8 @@ The dataset was selected because it contains a variety of lifestyle and mental h
 
 ## Student Names
 
-- Sarah Albukhaytan
-- Rawan Al-Abdullah
-- Alya Hassan Qaysi
-- Latifa Aljbali
-- Shatha Alofi
+- Sarah Albukhaytan, 446202951
+- Rawan Al-Abdullah, 446202515
+- Alya Hassan Qaysi, 445202208
+- Latifa Aljbali, 446203181
+- Shatha Alofi, 445200309
