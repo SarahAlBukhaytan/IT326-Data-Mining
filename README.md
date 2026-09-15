@@ -20,8 +20,8 @@ We believe this problem is important because stress is an important part of ment
 
 ### Students
 
-- Sarah Albukhaytan
-- Alya Hassan Qaysi
-- Rawan Al-Abdullah
-- Latifa Aljbali
-- Shatha Alofi
+- Sarah Albukhaytan, 446202951
+- Alya Hassan Qaysi, 445202208
+- Rawan Al-Abdullah, 446202515
+- Latifa Aljbali, 446203181
+- Shatha Alofi, 445200309
