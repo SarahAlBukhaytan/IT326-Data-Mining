@@ -1,23 +1,27 @@
 # Mental Health Prediction
 
-## Project Description
+## Project Information
 
-This project aims to analyze the relationship between lifestyle habits and stress levels using data mining techniques. The dataset contains different lifestyle and mental health-related attributes, such as sleep hours, exercise level, work hours, screen time, social interaction, and happiness score.
+### Project Description
 
-For the classification task, the project aims to classify individuals' Stress Level into three categories: Low, Moderate, and High.
+**Problem Statement:**  
+This project focuses on analyzing mental health and lifestyle data to understand the relationship between lifestyle habits and stress levels. The dataset includes various lifestyle and mental health-related attributes, such as sleep hours, exercise level, work hours, screen time, social interaction, and happiness score. Data mining techniques will be applied to analyze these characteristics and discover meaningful patterns related to stress.
 
-For the clustering task, the project aims to group individuals with similar lifestyle and mental health characteristics to identify patterns within the dataset.
+**Project Objectives:**
+- Classify individuals' Stress Level into three categories: Low, Moderate, and High.
+- Group individuals with similar lifestyle and mental health-related characteristics using clustering to identify patterns within the dataset.
+- Analyze the relationship between lifestyle habits and stress levels using data mining techniques.
 
-## Motivation
+### Project Motivation
 
-We chose this project because stress is an important aspect of mental well-being and may be associated with different lifestyle habits. Analyzing stress levels can help identify patterns related to sleep, exercise, work hours, screen time, social interaction, and happiness.
+We chose this project because the dataset combines mental health information with different aspects of daily lifestyle, such as sleep, exercise, work hours, screen time, social interaction, and happiness. This gives us the opportunity to use data mining techniques to investigate how these different characteristics are related to individuals' stress levels.
 
-The dataset was selected because it contains a variety of lifestyle and mental health-related attributes that are suitable for applying classification and clustering techniques.
+We believe this problem is important because stress is an important part of mental well-being, and understanding the patterns associated with different stress levels can provide useful insights into how lifestyle characteristics differ among individuals with Low, Moderate, and High stress levels.
 
-## Student Names
+### Students
 
-- Sarah Albukhaytan, 446202951
-- Rawan Al-Abdullah, 446202515
-- Alya Hassan Qaysi, 445202208
-- Latifa Aljbali, 446203181
-- Shatha Alofi, 445200309
+- Sarah Albukhaytan
+- Alya Hassan Qaysi
+- Rawan Al-Abdullah
+- Latifa Aljbali
+- Shatha Alofi
